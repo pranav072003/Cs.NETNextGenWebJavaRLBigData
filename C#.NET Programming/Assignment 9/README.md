@@ -1,1 +1,1 @@
-GUI program to demonstrate use of combobox and listbox controls, also demonstrating multithreading and thread synchronization
+# GUI program to demonstrate use of combobox and listbox controls, also demonstrating multithreading and thread synchronization
