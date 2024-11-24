@@ -36,6 +36,12 @@ class MergeSort
       i++;
       k++;
     }
+    while(j < n2)
+    {
+      arr[k] = R[j];
+      j++;
+      k++;
+    }
   }
 
   public static void mergeSort(int[] arr, int l, int r)
